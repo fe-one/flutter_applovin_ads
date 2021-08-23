@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {
   }
 
   void _createApplovinAds() {
-    FlutterApplovinAds.createInterstitialAd("3903019dd16b6d72", didLoad: (adUnitId) {
+    FlutterApplovinAds.createInterstitialAd("3903019ddxxxxxx", didLoad: (adUnitId) {
       print("ad_load");
       // FlutterApplovinAds.showInterstitialAd();
     }, didFailToLoadAd: (adUnitId, error) {
