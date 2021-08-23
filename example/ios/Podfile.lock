@@ -1,0 +1,29 @@
+PODS:
+  - AppLovinSDK (10.3.4)
+  - Flutter (1.0.0)
+  - flutter_applovin_ads (0.0.1):
+    - AppLovinSDK (~> 10.3.4)
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_applovin_ads (from `.symlinks/plugins/flutter_applovin_ads/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AppLovinSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_applovin_ads:
+    :path: ".symlinks/plugins/flutter_applovin_ads/ios"
+
+SPEC CHECKSUMS:
+  AppLovinSDK: 5a28da8e9b298a11e9e878abcc98e21e7edbdad3
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_applovin_ads: 34bf19ecf89118d812575202eab86cbdac8c5818
+
+PODFILE CHECKSUM: 02d221f1e7d9462bff20092f7b45d080159f4852
+
+COCOAPODS: 1.10.1
